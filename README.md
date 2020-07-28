@@ -5,3 +5,5 @@
 
 ## to run the application run the following code line
 ``` python app.py ```
+## To access the deployed web application 
+[Click Here](https://loanprediction-manisha-reddy.herokuapp.com/)
